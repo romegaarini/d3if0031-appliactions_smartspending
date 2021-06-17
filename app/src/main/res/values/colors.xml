@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39B54A</color>
+    <color name="colorPrimaryDark">#00BDAA</color>
+    <color name="colorAccent">#39B54A</color>
+    <color name="BtColor">@color/spending</color>
+    <color name="MenuColor">@color/spending</color>
+    <color name="spending">#2BCE31</color>
+    <color name="colorSelected">#B2EBF2</color>
+    <color name="colorRed">#F44336</color>
+    <color name="blck">#000000</color>
+    <color name="splash">#636363</color>
+    <color name="bt">#39B54A</color>
+    <color name="white">#ffffff</color>
+    <color name="hitam">#454545</color>
+
+</resources>

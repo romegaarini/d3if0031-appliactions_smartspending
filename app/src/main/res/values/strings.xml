@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Smart Spending</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="total_pengeluaran"
+        >Total Pengeluaran:
+    </string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="rp_0">Rp.0</string>
+    <string name="masukan_judul">Masukan judul</string>
+    <string name="ex_belanja">Baju</string>
+    <string name="masukan_jumlah_uang">Masukan jumlah uang</string>
+    <string name="ex_1_000_000">100000</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pemasukan_kamu">Pemasukan</string>
+    <string name="pengluaran_kamu">Pengeluaran</string>
+    <string name="saldo_kamu">Saldo kamu</string>
+    <string name="saldo">Saldo</string>
+    <string name="reset">Reset</string>
+    <string name="date_pattern">dd-MM-yyyy</string>
+    <string name="dialog_title_saldo">Jumlah Tabungan</string>
+    <string name="dialog_message">Hapus semua data?</string>
+    <string name="dialog_simpan">Simpan</string>
+    <string name="toast_isi_kolom">Isi semua kolom!</string>
+    <string name="toast_hapus_berhasil">Data berhasil dihapus</string>
+    <string name="total_pemasukan">Total Pemasukan:</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="sebuah_tombol_gambar_untuk_menghapus_gambar">Sebuah tombol gambar untuk menghapus gambar</string>
+    <string name="total">Total:</string>
+    <string name="sebuah_tombol_gambar_untuk_mengedit_gambar">Sebuah_tombol_gambar_untuk_mengedit_gambar</string>
+    <string name="rencana_harian">Catat Riwayat Harianmu</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
